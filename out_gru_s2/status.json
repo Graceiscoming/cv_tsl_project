@@ -1,11 +1,12 @@
 {
- "stage": "epoch done",
- "updated": "2026-10-11 21:19:42",
- "epoch": 32,
+ "stage": "finished",
+ "updated": "2026-10-11 21:26:41",
+ "epoch": 100,
  "epochs": 100,
  "batch": 208,
  "batches": 208,
- "loss": 0.0703,
- "val_acc": 0.6603,
- "best_val_acc": 0.6645,
- "eta": "10.2m"
+ "loss": 0.0029,
+ "val_acc": 0.7094,
+ "best_val_acc": 0.7115,
+ "eta": "0.0m"
+}
