@@ -1,0 +1,358 @@
+video_id,true,pred,confidence,correct
+01_07_0238,Yor Yuk,Yaowarat,0.015,0
+23_07_0238,Yor Yuk,Javelin throwing,0.015,0
+11_08_0260,Mom,Yaowarat,0.015,0
+09_08_0260,Mom,Hong Kong,0.021,0
+06_13_0390,LGBTQ+,Javelin throwing,0.015,0
+12_13_0390,LGBTQ+,LGBTQ+,0.015,1
+12_04_0138,Wat Phra That Phanom,LGBTQ+,0.017,0
+23_13_0392,Tomboy,Javelin throwing,0.016,0
+02_25_0913,Volleyball,aii,0.015,0
+19_25_0913,Volleyball,Mutton,0.015,0
+16_04_0158,MBK Center,Gay,0.015,0
+11_04_0158,MBK Center,Mutton,0.015,0
+03_07_0242,Nor Nayn,LGBTQ+,0.016,0
+12_07_0242,Nor Nayn,Yaowarat,0.015,0
+23_08_0273,Aunt (Father's younger brother or sister),LGBTQ+,0.016,0
+07_08_0273,Aunt (Father's younger brother or sister),LGBTQ+,0.016,0
+21_08_0275,Close friend,LGBTQ+,0.017,0
+19_08_0275,Close friend,LGBTQ+,0.016,0
+21_07_0245,Thor Thohng,Yaowarat,0.015,0
+13_07_0245,Thor Thohng,Hong Kong,0.021,0
+20_08_0271,Aunt (Mother's or father's older sister),LGBTQ+,0.016,0
+13_08_0271,Aunt (Mother's or father's older sister),Yaowarat,0.016,0
+16_07_0248,Chor Cher,LGBTQ+,0.015,0
+08_07_0248,Chor Cher,Hong Kong,0.021,0
+15_08_0279,Older sister,LGBTQ+,0.017,0
+25_08_0279,Older sister,aii,0.019,0
+19_08_0261,Children,Mutton,0.015,0
+29_08_0261,Children,Mutton,0.017,0
+13_07_0215,Thor Phoo Thao,Yaowarat,0.016,0
+22_07_0215,Thor Phoo Thao,LGBTQ+,0.015,0
+03_25_0935,Sailboat,LGBTQ+,0.016,0
+25_25_0935,Sailboat,Gay,0.016,0
+05_07_0222,Phor Phaan,Javelin throwing,0.015,0
+04_07_0222,Phor Phaan,Yaowarat,0.017,0
+21_25_0912,Basketball,LGBTQ+,0.018,0
+09_25_0912,Basketball,LGBTQ+,0.019,0
+12_04_0143,Hua Lamphong Railway Station,Mutton,0.015,0
+25_04_0143,Hua Lamphong Railway Station,aii,0.016,0
+25_25_0916,Wrestling,aii,0.018,0
+12_25_0916,Wrestling,aii,0.030,0
+01_01_0028,Israel,Yaowarat,0.015,0
+11_01_0028,Israel,Javelin throwing,0.015,0
+12_13_0385,Male,Yaowarat,0.017,0
+24_13_0385,Male,Javelin throwing,0.014,0
+02_04_0134,Wat Pho,aii,0.017,0
+29_08_0259,Dad,Yaowarat,0.017,0
+28_08_0259,Dad,Yaowarat,0.017,0
+16_08_0283,Family,Mutton,0.016,0
+04_08_0283,Family,LGBTQ+,0.017,0
+15_08_0263,Grandmother,LGBTQ+,0.015,0
+16_08_0263,Grandmother,LGBTQ+,0.014,0
+14_07_0253,uu,Yaowarat,0.016,0
+24_07_0253,uu,Yaowarat,0.014,0
+01_25_0926,Discus throwing,Kor Kwaii,0.015,0
+15_25_0926,Discus throwing,Yaowarat,0.014,0
+07_04_0165,Chatuchak Weekend Market,LGBTQ+,0.015,0
+23_04_0165,Chatuchak Weekend Market,aii,0.016,0
+25_08_0264,Grandpa,Hong Kong,0.021,0
+04_08_0264,Grandpa,LGBTQ+,0.017,0
+12_07_0214,Thor Tharn,Yaowarat,0.015,0
+15_07_0214,Thor Tharn,LGBTQ+,0.014,0
+06_04_0133,Wat Phra Kaew,LGBTQ+,0.015,0
+12_04_0133,Wat Phra Kaew,LGBTQ+,0.018,0
+02_08_0274,Friend,Mutton,0.014,0
+13_08_0274,Friend,Mutton,0.016,0
+05_25_0929,Swimming,Javelin throwing,0.015,0
+25_25_0929,Swimming,Yaowarat,0.015,0
+10_06_0204,Seven,LGBTQ+,0.015,0
+18_06_0204,Seven,Javelin throwing,0.015,0
+17_01_0001,Country,aii,0.016,0
+12_01_0001,Country,aii,0.015,0
+06_07_0256,aii,Javelin throwing,0.015,0
+11_07_0256,aii,Yaowarat,0.017,0
+24_07_0209,Kor Kai,Yaowarat,0.014,0
+20_07_0209,Kor Kai,LGBTQ+,0.015,0
+10_07_0255,ai,LGBTQ+,0.015,0
+08_07_0255,ai,Hong Kong,0.022,0
+11_04_0140,Wat Phra That Doi Suthep,Mutton,0.014,0
+12_04_0140,Wat Phra That Doi Suthep,LGBTQ+,0.014,0
+06_06_0205,Eight,Yaowarat,0.015,0
+01_06_0205,Eight,Javelin throwing,0.015,0
+01_04_0161,Future Park Rangsit,Yaowarat,0.016,0
+13_04_0161,Future Park Rangsit,Javelin throwing,0.015,0
+28_08_0281,Relative,Mutton,0.016,0
+23_08_0281,Relative,Yaowarat,0.015,0
+15_07_0208,Gor Gai,Javelin throwing,0.014,0
+18_07_0208,Gor Gai,Javelin throwing,0.015,0
+13_08_0280,Younger sister,Yaowarat,0.016,0
+26_08_0280,Younger sister,aii,0.016,0
+02_01_0004,Myanmar,Yaowarat,0.015,0
+23_01_0004,Myanmar,LGBTQ+,0.015,0
+07_06_0199,Two,LGBTQ+,0.016,0
+13_06_0199,Two,Yaowarat,0.016,0
+19_28_0981,Century egg,LGBTQ+,0.015,0
+02_28_0981,Century egg,LGBTQ+,0.016,0
+03_13_0388,Transgender,LGBTQ+,0.017,0
+13_13_0388,Transgender,Yaowarat,0.016,0
+06_04_0153,Lumphini Park,Javelin throwing,0.015,0
+11_07_0233,For Fun,Yaowarat,0.015,0
+05_07_0233,For Fun,Javelin throwing,0.015,0
+01_07_0227,Hor Nok Hoog,LGBTQ+,0.015,0
+09_07_0227,Hor Nok Hoog,Hong Kong,0.024,0
+20_25_0920,Table Tennis,Javelin throwing,0.016,0
+19_25_0920,Table Tennis,aii,0.018,0
+10_07_0216,Thor Mon-Tho,Javelin throwing,0.015,0
+20_07_0216,Thor Mon-Tho,Javelin throwing,0.016,0
+12_08_0267,Great-grandmother,Javelin throwing,0.015,0
+07_08_0267,Great-grandmother,LGBTQ+,0.016,0
+06_08_0258,Wife,Javelin throwing,0.014,0
+18_08_0258,Wife,LGBTQ+,0.016,0
+12_08_0269,Great-grandchild,Javelin throwing,0.015,0
+20_08_0269,Great-grandchild,LGBTQ+,0.014,0
+02_13_0389,Gender,LGBTQ+,0.014,0
+03_13_0389,Gender,LGBTQ+,0.016,0
+23_25_0925,Weight throwing,LGBTQ+,0.015,0
+17_25_0925,Weight throwing,Yaowarat,0.015,0
+08_01_0010,Taiwan,Javelin throwing,0.016,0
+15_01_0010,Taiwan,Javelin throwing,0.016,0
+13_25_0914,Takraw,Yaowarat,0.017,0
+05_25_0914,Takraw,Yaowarat,0.016,0
+16_07_0211,Kor Ra-Kung,LGBTQ+,0.016,0
+05_07_0211,Kor Ra-Kung,Javelin throwing,0.015,0
+09_28_0985,Beef,LGBTQ+,0.017,0
+13_28_0985,Beef,LGBTQ+,0.017,0
+04_28_0979,Chicken egg,LGBTQ+,0.016,0
+10_28_0979,Chicken egg,LGBTQ+,0.015,0
+18_07_0224,Phor Pheung,Javelin throwing,0.015,0
+25_07_0224,Phor Pheung,Javelin throwing,0.015,0
+10_07_0212,Tor Tao,Javelin throwing,0.015,0
+08_07_0212,Tor Tao,Hong Kong,0.019,0
+25_13_0387,Gay,Javelin throwing,0.014,0
+12_13_0387,Gay,Yaowarat,0.015,0
+07_07_0231,Dor Dek,LGBTQ+,0.015,0
+06_07_0231,Dor Dek,Javelin throwing,0.014,0
+20_07_0250,i,Javelin throwing,0.015,0
+14_07_0250,i,Yaowarat,0.016,0
+16_01_0006,Vietnam,LGBTQ+,0.020,0
+08_01_0006,Vietnam,LGBTQ+,0.018,0
+03_07_0240,Mor Maa,LGBTQ+,0.016,0
+22_07_0240,Mor Maa,LGBTQ+,0.015,0
+21_08_0282,Cousin,Yaowarat,0.017,0
+04_08_0282,Cousin,LGBTQ+,0.015,0
+04_07_0218,Sor Sua,Yaowarat,0.016,0
+16_07_0218,Sor Sua,LGBTQ+,0.014,0
+09_07_0234,Fhor Fhaa,Hong Kong,0.023,0
+12_07_0234,Fhor Fhaa,Yaowarat,0.015,0
+10_07_0247,Chor Chaang,LGBTQ+,0.016,0
+13_07_0247,Chor Chaang,Hong Kong,0.019,0
+17_28_0987,Venison,LGBTQ+,0.018,0
+25_28_0987,Venison,LGBTQ+,0.018,0
+02_13_0393,Ladyboy,aii,0.016,0
+20_25_0930,Archery,LGBTQ+,0.014,0
+08_25_0930,Archery,LGBTQ+,0.017,0
+05_25_0923,Running,Robinson Department Store,0.015,0
+02_25_0923,Running,Robinson Department Store,0.015,0
+02_25_0934,Golf,aii,0.014,0
+15_25_0934,Golf,Mutton,0.015,0
+02_04_0146,Government House,LGBTQ+,0.018,0
+11_04_0146,Government House,LGBTQ+,0.017,0
+03_25_0919,Tennis,LGBTQ+,0.019,0
+01_25_0919,Tennis,Mutton,0.015,0
+01_08_0284,Parent,LGBTQ+,0.017,0
+15_08_0284,Parent,LGBTQ+,0.017,0
+11_04_0167,Siam Amazing Park,Mutton,0.015,0
+05_04_0167,Siam Amazing Park,Javelin throwing,0.015,0
+09_07_0228,Bor Bai Mai,Hong Kong,0.022,0
+22_07_0228,Bor Bai Mai,Javelin throwing,0.014,0
+08_08_0257,Husband,Robinson Department Store,0.016,0
+07_08_0257,Husband,LGBTQ+,0.016,0
+06_07_0229,Ror Rua,Javelin throwing,0.015,0
+17_07_0229,Ror Rua,Javelin throwing,0.015,0
+03_25_0917,Judo,aii,0.019,0
+21_25_0917,Judo,Kor Kwaii,0.017,0
+10_07_0232,Dor Cha-Daa,LGBTQ+,0.015,0
+11_07_0232,Dor Cha-Daa,Yaowarat,0.016,0
+04_13_0386,Female,Yaowarat,0.016,0
+13_13_0386,Female,Yaowarat,0.016,0
+18_07_0254,o,Javelin throwing,0.015,0
+13_07_0254,o,Hong Kong,0.018,0
+08_01_0002,Thailand,LGBTQ+,0.017,0
+02_01_0002,Thailand,Yaowarat,0.014,0
+17_28_0986,Mutton,Javelin throwing,0.015,0
+28_28_0986,Mutton,Javelin throwing,0.015,0
+15_07_0223,Por Plaa,Yaowarat,0.014,0
+12_07_0223,Por Plaa,Yaowarat,0.015,0
+01_04_0166,Train Night Market,LGBTQ+,0.017,0
+02_04_0166,Train Night Market,LGBTQ+,0.015,0
+25_07_0252,u,Yaowarat,0.015,0
+07_07_0252,u,LGBTQ+,0.016,0
+02_04_0156,Siam Square,Gay,0.014,0
+01_04_0156,Siam Square,Yaowarat,0.015,0
+16_28_0984,Wild boar meat,LGBTQ+,0.016,0
+25_28_0984,Wild boar meat,Gay,0.014,0
+10_04_0159,Robinson Department Store,LGBTQ+,0.015,0
+24_04_0159,Robinson Department Store,Mutton,0.016,0
+09_07_0210,Kor Kwaii,Hong Kong,0.021,0
+03_07_0210,Kor Kwaii,LGBTQ+,0.015,0
+26_06_0197,Zero,LGBTQ+,0.017,0
+01_06_0197,Zero,LGBTQ+,0.015,0
+23_28_0988,Fish meat,Mutton,0.015,0
+04_28_0988,Fish meat,Javelin throwing,0.015,0
+02_04_0142,Giant Swing,aii,0.016,0
+12_04_0142,Giant Swing,LGBTQ+,0.016,0
+15_25_0924,High Jump,Javelin throwing,0.015,0
+05_25_0924,High Jump,Mutton,0.015,0
+03_04_0136,Wat Benchamabophit,Hong Kong,0.017,0
+03_08_0276,Girlfriend,Javelin throwing,0.014,0
+15_08_0276,Girlfriend,Javelin throwing,0.015,0
+05_06_0206,Nine,Javelin throwing,0.016,0
+28_06_0206,Nine,Yaowarat,0.015,0
+15_04_0155,Chatuchak Park,aii,0.015,0
+25_04_0155,Chatuchak Park,aii,0.019,0
+15_07_0213,Thor Thoong,LGBTQ+,0.014,0
+05_07_0213,Thor Thoong,Javelin throwing,0.015,0
+05_04_0168,Dreamworld,Javelin throwing,0.015,0
+10_04_0168,Dreamworld,Javelin throwing,0.015,0
+01_04_0151,Amporn Gardens,Yaowarat,0.016,0
+12_08_0277,Older brother,Yaowarat,0.017,0
+16_08_0277,Older brother,LGBTQ+,0.018,0
+15_07_0243,Ngor Ngoo,Javelin throwing,0.015,0
+03_07_0243,Ngor Ngoo,LGBTQ+,0.014,0
+17_25_0931,Cycling,Javelin throwing,0.015,0
+03_25_0931,Cycling,aii,0.016,0
+23_04_0137,Temple of the Golden Mount,LGBTQ+,0.018,0
+05_08_0278,Younger brother,Yaowarat,0.015,0
+28_08_0278,Younger brother,Mutton,0.016,0
+16_07_0235,Lor Ling,LGBTQ+,0.015,0
+15_07_0235,Lor Ling,LGBTQ+,0.014,0
+23_13_0391,Lesbian,Javelin throwing,0.015,0
+24_13_0391,Lesbian,aii,0.015,0
+15_04_0141,Sanam Luang,Yaowarat,0.015,0
+04_04_0141,Sanam Luang,Yaowarat,0.016,0
+07_25_0922,Petanque,Kor Kwaii,0.015,0
+15_25_0922,Petanque,Female,0.015,0
+18_07_0226,Hor Heep,Javelin throwing,0.015,0
+12_07_0226,Hor Heep,Female,0.015,0
+11_07_0217,Tor Pa-Tuk,Yaowarat,0.015,0
+16_07_0217,Tor Pa-Tuk,LGBTQ+,0.016,0
+15_04_0164,Big C,LGBTQ+,0.017,0
+07_04_0164,Big C,Robinson Department Store,0.017,0
+01_07_0249,Or Aang,Yaowarat,0.015,0
+17_07_0249,Or Aang,Javelin throwing,0.015,0
+03_04_0154,The Memorial Monument of Thao Suranaree,Javelin throwing,0.015,0
+15_04_0154,The Memorial Monument of Thao Suranaree,Javelin throwing,0.014,0
+24_07_0251,ee,Yaowarat,0.015,0
+05_07_0251,ee,Javelin throwing,0.015,0
+10_01_0007,China,LGBTQ+,0.017,0
+11_01_0007,China,LGBTQ+,0.016,0
+24_28_0978,Egg,Mutton,0.015,0
+06_28_0978,Egg,Javelin throwing,0.015,0
+20_25_0911,Football,Javelin throwing,0.015,0
+23_25_0911,Football,aii,0.016,0
+02_07_0246,Chor Ching,Javelin throwing,0.014,0
+06_07_0246,Chor Ching,Javelin throwing,0.015,0
+25_06_0201,Four,aii,0.025,0
+01_06_0201,Four,Javelin throwing,0.016,0
+09_01_0009,Macau,Javelin throwing,0.015,0
+15_01_0009,Macau,Javelin throwing,0.015,0
+13_28_0989,Grocery,LGBTQ+,0.015,0
+19_28_0989,Grocery,Javelin throwing,0.014,0
+12_25_0933,Bowling,Kor Kwaii,0.018,0
+07_25_0933,Bowling,Female,0.015,0
+01_04_0169,Safari World,LGBTQ+,0.016,0
+09_04_0169,Safari World,LGBTQ+,0.014,0
+15_04_0162,Makro,LGBTQ+,0.014,0
+04_04_0162,Makro,Yaowarat,0.015,0
+24_25_0932,Chess,Gay,0.014,0
+13_25_0932,Chess,Javelin throwing,0.015,0
+19_07_0239,Yor Ying,Yaowarat,0.015,0
+08_07_0239,Yor Ying,Hong Kong,0.019,0
+21_06_0203,Six,LGBTQ+,0.016,0
+11_06_0203,Six,Yaowarat,0.017,0
+02_04_0149,Crocodile farm,LGBTQ+,0.017,0
+11_04_0149,Crocodile farm,Mutton,0.016,0
+04_25_0928,Shooting,LGBTQ+,0.016,0
+02_25_0928,Shooting,Javelin throwing,0.015,0
+12_06_0202,Five,Yaowarat,0.015,0
+06_06_0202,Five,Javelin throwing,0.016,0
+13_04_0148,Democracy Monument,LGBTQ+,0.019,0
+08_04_0148,Democracy Monument,LGBTQ+,0.016,0
+11_08_0266,Great-grandfather,Yaowarat,0.015,0
+20_08_0266,Great-grandfather,Javelin throwing,0.015,0
+08_08_0270,Uncle (Mother's or father's older brother),Hong Kong,0.023,0
+07_08_0270,Uncle (Mother's or father's older brother),LGBTQ+,0.015,0
+02_07_0219,Sor Saalaa,Javelin throwing,0.015,0
+21_07_0219,Sor Saalaa,LGBTQ+,0.015,0
+10_28_0982,Salted egg,Javelin throwing,0.015,0
+18_28_0982,Salted egg,LGBTQ+,0.016,0
+03_01_0020,Pakistan,Mutton,0.018,0
+02_01_0020,Pakistan,LGBTQ+,0.015,0
+19_25_0921,Gymnastic,Robinson Department Store,0.015,0
+17_25_0921,Gymnastic,Javelin throwing,0.015,0
+08_07_0230,Wor Whaen,Hong Kong,0.021,0
+21_07_0230,Wor Whaen,Yaowarat,0.015,0
+13_01_0003,Laos,Yaowarat,0.017,0
+08_01_0003,Laos,LGBTQ+,0.018,0
+19_06_0207,Ten,Yaowarat,0.015,0
+12_06_0207,Ten,Female,0.014,0
+20_07_0221,Sor So,Javelin throwing,0.016,0
+02_07_0221,Sor So,Javelin throwing,0.015,0
+17_08_0262,Grandfather,LGBTQ+,0.014,0
+18_08_0262,Grandfather,LGBTQ+,0.015,0
+05_07_0241,Nor Nhoo,Javelin throwing,0.015,0
+24_07_0241,Nor Nhoo,Javelin throwing,0.014,0
+12_25_0927,Javelin throwing,Yaowarat,0.018,0
+20_25_0927,Javelin throwing,Javelin throwing,0.015,1
+16_07_0220,Sor Rue Si,LGBTQ+,0.016,0
+04_07_0220,Sor Rue Si,Yaowarat,0.016,0
+09_08_0272,Uncle (Mother's younger brother or sister),Hong Kong,0.024,0
+18_08_0272,Uncle (Mother's younger brother or sister),Javelin throwing,0.015,0
+11_01_0005,Cambodia,Kor Kwaii,0.019,0
+17_01_0005,Cambodia,Female,0.015,0
+16_04_0145,Bang Lamphu,Yaowarat,0.015,0
+15_25_0918,Badminton,LGBTQ+,0.016,0
+11_25_0918,Badminton,Javelin throwing,0.014,0
+04_08_0265,Grandma,Yaowarat,0.016,0
+28_08_0265,Grandma,Yaowarat,0.015,0
+23_07_0244,Tor Thaharn,Javelin throwing,0.015,0
+08_07_0244,Tor Thaharn,Hong Kong,0.021,0
+20_25_0936,Sport,LGBTQ+,0.016,0
+09_25_0936,Sport,LGBTQ+,0.017,0
+18_07_0236,Lor Chulaa,LGBTQ+,0.015,0
+03_07_0236,Lor Chulaa,LGBTQ+,0.014,0
+01_04_0163,Tesco Lotus,LGBTQ+,0.016,0
+25_04_0163,Tesco Lotus,LGBTQ+,0.017,0
+03_04_0139,Wat Phra Pathom Chedi,LGBTQ+,0.020,0
+12_04_0139,Wat Phra Pathom Chedi,LGBTQ+,0.017,0
+24_28_0980,Duck egg,Javelin throwing,0.015,0
+29_28_0980,Duck egg,Mutton,0.017,0
+15_07_0237,Jor Jaan,LGBTQ+,0.014,0
+21_07_0237,Jor Jaan,Yaowarat,0.016,0
+10_04_0160,The Mall Department Store,Javelin throwing,0.015,0
+11_04_0160,The Mall Department Store,LGBTQ+,0.015,0
+04_25_0915,Boxing,Mutton,0.018,0
+09_25_0915,Boxing,LGBTQ+,0.019,0
+08_04_0135,Wat Arun,LGBTQ+,0.017,0
+11_06_0200,Three,Yaowarat,0.016,0
+12_06_0200,Three,Yaowarat,0.015,0
+13_07_0225,Phor Samphao,aii,0.017,0
+22_07_0225,Phor Samphao,Javelin throwing,0.014,0
+21_08_0268,Grandchild,Yaowarat,0.014,0
+25_08_0268,Grandchild,LGBTQ+,0.016,0
+23_06_0198,One,LGBTQ+,0.015,0
+02_06_0198,One,Javelin throwing,0.014,0
+23_04_0150,Damnoen Saduak Floating Market,Mutton,0.015,0
+03_04_0150,Damnoen Saduak Floating Market,LGBTQ+,0.017,0
+13_04_0144,Yaowarat,aii,0.019,0
+02_04_0144,Yaowarat,LGBTQ+,0.017,0
+25_04_0152,Wongwian Yai,Yaowarat,0.017,0
+05_04_0157,Central Department Store,Mutton,0.016,0
+09_04_0157,Central Department Store,LGBTQ+,0.016,0
+13_28_0983,Pork,Javelin throwing,0.015,0
+25_28_0983,Pork,Javelin throwing,0.015,0
+15_04_0147,Victory Monument,LGBTQ+,0.016,0
+08_04_0147,Victory Monument,LGBTQ+,0.016,0
+02_01_0008,Hong Kong,Yaowarat,0.014,0
+09_01_0008,Hong Kong,Hong Kong,0.024,1

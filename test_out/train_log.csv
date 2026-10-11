@@ -1,0 +1,2 @@
+epoch,train_loss,train_acc,val_loss,val_acc,lr,epoch_sec,gpu_peak_mb
+1,5.4403,0.0050,5.3491,0.0021,1.30e-05,1.2,522

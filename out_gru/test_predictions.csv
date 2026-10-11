@@ -1,0 +1,358 @@
+video_id,true,pred,confidence,correct
+01_07_0238,Yor Yuk,Yor Yuk,0.999,1
+23_07_0238,Yor Yuk,Yor Yuk,0.993,1
+11_08_0260,Mom,Mom,0.728,1
+09_08_0260,Mom,Mom,0.993,1
+06_13_0390,LGBTQ+,LGBTQ+,0.717,1
+12_13_0390,LGBTQ+,LGBTQ+,0.581,1
+12_04_0138,Wat Phra That Phanom,Wat Phra Pathom Chedi,0.847,0
+23_13_0392,Tomboy,Tomboy,1.000,1
+02_25_0913,Volleyball,Volleyball,0.529,1
+19_25_0913,Volleyball,Tennis,0.989,0
+16_04_0158,MBK Center,MBK Center,1.000,1
+11_04_0158,MBK Center,MBK Center,1.000,1
+03_07_0242,Nor Nayn,Or Aang,0.819,0
+12_07_0242,Nor Nayn,Sor Saalaa,0.996,0
+23_08_0273,Aunt (Father's younger brother or sister),Uncle (Mother's or father's older brother),0.536,0
+07_08_0273,Aunt (Father's younger brother or sister),Nor Nhoo,0.365,0
+21_08_0275,Close friend,Close friend,1.000,1
+19_08_0275,Close friend,Close friend,0.927,1
+21_07_0245,Thor Thohng,Thor Thohng,0.995,1
+13_07_0245,Thor Thohng,Thor Thohng,0.999,1
+20_08_0271,Aunt (Mother's or father's older sister),Female,0.999,0
+13_08_0271,Aunt (Mother's or father's older sister),Grandfather,0.531,0
+16_07_0248,Chor Cher,Chor Cher,0.998,1
+08_07_0248,Chor Cher,Chor Cher,1.000,1
+15_08_0279,Older sister,Older sister,0.980,1
+25_08_0279,Older sister,Older sister,0.980,1
+19_08_0261,Children,Children,1.000,1
+29_08_0261,Children,Children,1.000,1
+13_07_0215,Thor Phoo Thao,Thor Phoo Thao,0.990,1
+22_07_0215,Thor Phoo Thao,Thor Phoo Thao,0.985,1
+03_25_0935,Sailboat,Sailboat,0.994,1
+25_25_0935,Sailboat,Sailboat,1.000,1
+05_07_0222,Phor Phaan,Phor Phaan,0.999,1
+04_07_0222,Phor Phaan,Phor Phaan,1.000,1
+21_25_0912,Basketball,Basketball,0.960,1
+09_25_0912,Basketball,Takraw,0.591,0
+12_04_0143,Hua Lamphong Railway Station,Hua Lamphong Railway Station,0.999,1
+25_04_0143,Hua Lamphong Railway Station,Hua Lamphong Railway Station,1.000,1
+25_25_0916,Wrestling,Wrestling,0.235,1
+12_25_0916,Wrestling,Wrestling,0.951,1
+01_01_0028,Israel,Israel,1.000,1
+11_01_0028,Israel,Israel,1.000,1
+12_13_0385,Male,Male,0.998,1
+24_13_0385,Male,Male,0.990,1
+02_04_0134,Wat Pho,High Jump,0.431,0
+29_08_0259,Dad,Dad,0.995,1
+28_08_0259,Dad,Dad,0.989,1
+16_08_0283,Family,Family,0.980,1
+04_08_0283,Family,Family,1.000,1
+15_08_0263,Grandmother,Grandma,0.663,0
+16_08_0263,Grandmother,Grandmother,0.750,1
+14_07_0253,uu,uu,0.550,1
+24_07_0253,uu,uu,0.999,1
+01_25_0926,Discus throwing,Discus throwing,1.000,1
+15_25_0926,Discus throwing,Weight throwing,0.602,0
+07_04_0165,Chatuchak Weekend Market,Chatuchak Weekend Market,0.894,1
+23_04_0165,Chatuchak Weekend Market,Chatuchak Park,0.430,0
+25_08_0264,Grandpa,o,0.966,0
+04_08_0264,Grandpa,Grandmother,0.357,0
+12_07_0214,Thor Tharn,Thor Tharn,0.985,1
+15_07_0214,Thor Tharn,Thor Tharn,0.993,1
+06_04_0133,Wat Phra Kaew,Wat Phra Kaew,1.000,1
+12_04_0133,Wat Phra Kaew,Wat Phra Kaew,1.000,1
+02_08_0274,Friend,Friend,0.903,1
+13_08_0274,Friend,Boxing,0.997,0
+05_25_0929,Swimming,Swimming,0.994,1
+25_25_0929,Swimming,The Mall Department Store,0.786,0
+10_06_0204,Seven,Seven,0.996,1
+18_06_0204,Seven,Seven,0.995,1
+17_01_0001,Country,Country,1.000,1
+12_01_0001,Country,Country,0.999,1
+06_07_0256,aii,aii,0.987,1
+11_07_0256,aii,ai,0.507,0
+24_07_0209,Kor Kai,Kor Kai,0.998,1
+20_07_0209,Kor Kai,Kor Kai,0.997,1
+10_07_0255,ai,aii,0.957,0
+08_07_0255,ai,aii,0.985,0
+11_04_0140,Wat Phra That Doi Suthep,Wat Phra That Doi Suthep,0.764,1
+12_04_0140,Wat Phra That Doi Suthep,Wat Phra That Doi Suthep,0.997,1
+06_06_0205,Eight,Eight,0.798,1
+01_06_0205,Eight,Eight,0.999,1
+01_04_0161,Future Park Rangsit,Future Park Rangsit,0.962,1
+13_04_0161,Future Park Rangsit,Future Park Rangsit,0.647,1
+28_08_0281,Relative,Older sister,1.000,0
+23_08_0281,Relative,Relative,0.885,1
+15_07_0208,Gor Gai,Kor Kwaii,0.674,0
+18_07_0208,Gor Gai,Gor Gai,0.970,1
+13_08_0280,Younger sister,Younger sister,0.982,1
+26_08_0280,Younger sister,Cousin,0.587,0
+02_01_0004,Myanmar,Myanmar,0.998,1
+23_01_0004,Myanmar,Myanmar,0.879,1
+07_06_0199,Two,Two,0.951,1
+13_06_0199,Two,Two,0.937,1
+19_28_0981,Century egg,Century egg,0.993,1
+02_28_0981,Century egg,Century egg,0.994,1
+03_13_0388,Transgender,Great-grandfather,0.374,0
+13_13_0388,Transgender,Transgender,1.000,1
+06_04_0153,Lumphini Park,Lumphini Park,1.000,1
+11_07_0233,For Fun,For Fun,0.609,1
+05_07_0233,For Fun,For Fun,0.997,1
+01_07_0227,Hor Nok Hoog,Hor Nok Hoog,0.999,1
+09_07_0227,Hor Nok Hoog,Thor Thohng,0.915,0
+20_25_0920,Table Tennis,Lesbian,0.600,0
+19_25_0920,Table Tennis,Table Tennis,0.989,1
+10_07_0216,Thor Mon-Tho,Thor Mon-Tho,0.997,1
+20_07_0216,Thor Mon-Tho,Thor Mon-Tho,0.992,1
+12_08_0267,Great-grandmother,Great-grandfather,0.672,0
+07_08_0267,Great-grandmother,Great-grandfather,0.383,0
+06_08_0258,Wife,Wife,0.999,1
+18_08_0258,Wife,Wife,0.999,1
+12_08_0269,Great-grandchild,Great-grandchild,1.000,1
+20_08_0269,Great-grandchild,Great-grandchild,0.973,1
+02_13_0389,Gender,Younger sister,0.501,0
+03_13_0389,Gender,Gender,0.757,1
+23_25_0925,Weight throwing,Weight throwing,0.997,1
+17_25_0925,Weight throwing,Weight throwing,0.999,1
+08_01_0010,Taiwan,Taiwan,0.548,1
+15_01_0010,Taiwan,Taiwan,0.994,1
+13_25_0914,Takraw,Takraw,1.000,1
+05_25_0914,Takraw,Takraw,0.997,1
+16_07_0211,Kor Ra-Kung,Thor Phoo Thao,0.522,0
+05_07_0211,Kor Ra-Kung,Kor Ra-Kung,1.000,1
+09_28_0985,Beef,Venison,0.605,0
+13_28_0985,Beef,Beef,1.000,1
+04_28_0979,Chicken egg,Chicken egg,0.999,1
+10_28_0979,Chicken egg,Duck egg,0.999,0
+18_07_0224,Phor Pheung,Phor Pheung,0.984,1
+25_07_0224,Phor Pheung,Phor Pheung,0.750,1
+10_07_0212,Tor Tao,Sor Saalaa,0.425,0
+08_07_0212,Tor Tao,Thor Thoong,0.497,0
+25_13_0387,Gay,Gay,1.000,1
+12_13_0387,Gay,Gay,1.000,1
+07_07_0231,Dor Dek,Dor Cha-Daa,0.352,0
+06_07_0231,Dor Dek,Dor Dek,0.589,1
+20_07_0250,i,i,0.792,1
+14_07_0250,i,u,0.821,0
+16_01_0006,Vietnam,Vietnam,0.999,1
+08_01_0006,Vietnam,Vietnam,0.997,1
+03_07_0240,Mor Maa,Zero,0.948,0
+22_07_0240,Mor Maa,Mor Maa,0.519,1
+21_08_0282,Cousin,Cousin,0.999,1
+04_08_0282,Cousin,Cousin,0.905,1
+04_07_0218,Sor Sua,Sor Sua,0.998,1
+16_07_0218,Sor Sua,Sor Sua,0.999,1
+09_07_0234,Fhor Fhaa,Dor Cha-Daa,0.698,0
+12_07_0234,Fhor Fhaa,Fhor Fhaa,1.000,1
+10_07_0247,Chor Chaang,Chor Chaang,0.985,1
+13_07_0247,Chor Chaang,Chor Cher,0.622,0
+17_28_0987,Venison,Venison,0.965,1
+25_28_0987,Venison,Venison,0.999,1
+02_13_0393,Ladyboy,Ladyboy,0.998,1
+20_25_0930,Archery,Archery,0.695,1
+08_25_0930,Archery,Wild boar meat,0.774,0
+05_25_0923,Running,Friend,0.971,0
+02_25_0923,Running,Running,0.730,1
+02_25_0934,Golf,Golf,1.000,1
+15_25_0934,Golf,Golf,0.526,1
+02_04_0146,Government House,Government House,0.599,1
+11_04_0146,Government House,Government House,0.983,1
+03_25_0919,Tennis,Tennis,0.946,1
+01_25_0919,Tennis,Golf,0.997,0
+01_08_0284,Parent,Tesco Lotus,0.749,0
+15_08_0284,Parent,Parent,0.999,1
+11_04_0167,Siam Amazing Park,Siam Amazing Park,1.000,1
+05_04_0167,Siam Amazing Park,Lesbian,0.394,0
+09_07_0228,Bor Bai Mai,Wor Whaen,0.571,0
+22_07_0228,Bor Bai Mai,Four,0.890,0
+08_08_0257,Husband,Husband,1.000,1
+07_08_0257,Husband,Husband,0.978,1
+06_07_0229,Ror Rua,Six,0.890,0
+17_07_0229,Ror Rua,Ror Rua,0.975,1
+03_25_0917,Judo,Judo,0.849,1
+21_25_0917,Judo,Petanque,0.899,0
+10_07_0232,Dor Cha-Daa,Dor Cha-Daa,0.700,1
+11_07_0232,Dor Cha-Daa,Dor Cha-Daa,0.938,1
+04_13_0386,Female,Female,0.990,1
+13_13_0386,Female,Female,0.727,1
+18_07_0254,o,o,0.998,1
+13_07_0254,o,o,0.999,1
+08_01_0002,Thailand,Swimming,0.562,0
+02_01_0002,Thailand,Thailand,0.923,1
+17_28_0986,Mutton,Mutton,0.996,1
+28_28_0986,Mutton,Mutton,1.000,1
+15_07_0223,Por Plaa,Por Plaa,1.000,1
+12_07_0223,Por Plaa,Por Plaa,1.000,1
+01_04_0166,Train Night Market,Century egg,0.644,0
+02_04_0166,Train Night Market,The Memorial Monument of Thao Suranaree,0.326,0
+25_07_0252,u,i,0.645,0
+07_07_0252,u,i,0.912,0
+02_04_0156,Siam Square,Siam Square,0.617,1
+01_04_0156,Siam Square,Thailand,0.433,0
+16_28_0984,Wild boar meat,Wild boar meat,0.978,1
+25_28_0984,Wild boar meat,Wild boar meat,0.991,1
+10_04_0159,Robinson Department Store,Gymnastic,0.320,0
+24_04_0159,Robinson Department Store,Robinson Department Store,0.999,1
+09_07_0210,Kor Kwaii,Kor Kwaii,0.845,1
+03_07_0210,Kor Kwaii,Kor Kwaii,0.978,1
+26_06_0197,Zero,Zero,0.998,1
+01_06_0197,Zero,Zero,0.995,1
+23_28_0988,Fish meat,Fish meat,0.998,1
+04_28_0988,Fish meat,Pork,0.531,0
+02_04_0142,Giant Swing,Giant Swing,0.999,1
+12_04_0142,Giant Swing,Giant Swing,1.000,1
+15_25_0924,High Jump,High Jump,0.571,1
+05_25_0924,High Jump,High Jump,0.575,1
+03_04_0136,Wat Benchamabophit,Wat Benchamabophit,1.000,1
+03_08_0276,Girlfriend,Girlfriend,0.979,1
+15_08_0276,Girlfriend,One,0.959,0
+05_06_0206,Nine,Nine,0.707,1
+28_06_0206,Nine,Nine,0.902,1
+15_04_0155,Chatuchak Park,Chatuchak Park,0.771,1
+25_04_0155,Chatuchak Park,Golf,0.511,0
+15_07_0213,Thor Thoong,Thor Thoong,0.991,1
+05_07_0213,Thor Thoong,Thor Thoong,0.920,1
+05_04_0168,Dreamworld,Dreamworld,0.861,1
+10_04_0168,Dreamworld,Crocodile farm,0.507,0
+01_04_0151,Amporn Gardens,Wongwian Yai,0.904,0
+12_08_0277,Older brother,Older brother,0.986,1
+16_08_0277,Older brother,Older brother,1.000,1
+15_07_0243,Ngor Ngoo,Ngor Ngoo,0.999,1
+03_07_0243,Ngor Ngoo,Ngor Ngoo,0.767,1
+17_25_0931,Cycling,Chess,0.828,0
+03_25_0931,Cycling,Cycling,0.981,1
+23_04_0137,Temple of the Golden Mount,Temple of the Golden Mount,0.976,1
+05_08_0278,Younger brother,Younger brother,0.998,1
+28_08_0278,Younger brother,Girlfriend,0.990,0
+16_07_0235,Lor Ling,Lor Ling,0.938,1
+15_07_0235,Lor Ling,Lor Ling,1.000,1
+23_13_0391,Lesbian,Tomboy,0.334,0
+24_13_0391,Lesbian,Lesbian,0.795,1
+15_04_0141,Sanam Luang,Sanam Luang,0.726,1
+04_04_0141,Sanam Luang,Myanmar,0.996,0
+07_25_0922,Petanque,Petanque,0.934,1
+15_25_0922,Petanque,Judo,0.830,0
+18_07_0226,Hor Heep,Hor Heep,0.979,1
+12_07_0226,Hor Heep,Hor Heep,0.813,1
+11_07_0217,Tor Pa-Tuk,Tor Pa-Tuk,0.833,1
+16_07_0217,Tor Pa-Tuk,Thor Mon-Tho,0.843,0
+15_04_0164,Big C,Big C,1.000,1
+07_04_0164,Big C,Big C,0.979,1
+01_07_0249,Or Aang,Or Aang,1.000,1
+17_07_0249,Or Aang,Or Aang,0.786,1
+03_04_0154,The Memorial Monument of Thao Suranaree,The Memorial Monument of Thao Suranaree,0.955,1
+15_04_0154,The Memorial Monument of Thao Suranaree,The Memorial Monument of Thao Suranaree,0.999,1
+24_07_0251,ee,i,0.890,0
+05_07_0251,ee,Sor Saalaa,0.400,0
+10_01_0007,China,China,0.995,1
+11_01_0007,China,China,1.000,1
+24_28_0978,Egg,Egg,0.984,1
+06_28_0978,Egg,Egg,0.991,1
+20_25_0911,Football,Wrestling,0.948,0
+23_25_0911,Football,Football,1.000,1
+02_07_0246,Chor Ching,Girlfriend,0.674,0
+06_07_0246,Chor Ching,Chor Ching,0.694,1
+25_06_0201,Four,Five,0.745,0
+01_06_0201,Four,Four,0.996,1
+09_01_0009,Macau,Table Tennis,0.405,0
+15_01_0009,Macau,Macau,0.962,1
+13_28_0989,Grocery,Grocery,0.912,1
+19_28_0989,Grocery,Grocery,0.246,1
+12_25_0933,Bowling,Bowling,0.973,1
+07_25_0933,Bowling,Petanque,0.992,0
+01_04_0169,Safari World,Safari World,0.783,1
+09_04_0169,Safari World,Safari World,0.999,1
+15_04_0162,Makro,Makro,0.742,1
+04_04_0162,Makro,Makro,0.977,1
+24_25_0932,Chess,Chess,0.995,1
+13_25_0932,Chess,Chess,1.000,1
+19_07_0239,Yor Ying,Yor Ying,0.905,1
+08_07_0239,Yor Ying,Yor Ying,0.991,1
+21_06_0203,Six,Six,0.782,1
+11_06_0203,Six,Seven,0.448,0
+02_04_0149,Crocodile farm,Crocodile farm,0.989,1
+11_04_0149,Crocodile farm,Crocodile farm,0.998,1
+04_25_0928,Shooting,Sailboat,0.746,0
+02_25_0928,Shooting,Gay,0.690,0
+12_06_0202,Five,Five,0.953,1
+06_06_0202,Five,Four,0.800,0
+13_04_0148,Democracy Monument,Vietnam,0.869,0
+08_04_0148,Democracy Monument,Democracy Monument,0.951,1
+11_08_0266,Great-grandfather,Great-grandfather,0.754,1
+20_08_0266,Great-grandfather,Grandfather,0.948,0
+08_08_0270,Uncle (Mother's or father's older brother),Lor Ling,0.642,0
+07_08_0270,Uncle (Mother's or father's older brother),Uncle (Mother's or father's older brother),0.999,1
+02_07_0219,Sor Saalaa,Sor Saalaa,0.998,1
+21_07_0219,Sor Saalaa,Sor Saalaa,0.753,1
+10_28_0982,Salted egg,Egg,0.571,0
+18_28_0982,Salted egg,Salted egg,1.000,1
+03_01_0020,Pakistan,Crocodile farm,0.355,0
+02_01_0020,Pakistan,Pakistan,1.000,1
+19_25_0921,Gymnastic,Gymnastic,0.994,1
+17_25_0921,Gymnastic,Table Tennis,0.361,0
+08_07_0230,Wor Whaen,Wor Whaen,0.971,1
+21_07_0230,Wor Whaen,Four,0.928,0
+13_01_0003,Laos,Laos,0.984,1
+08_01_0003,Laos,Laos,0.572,1
+19_06_0207,Ten,Ten,0.457,1
+12_06_0207,Ten,Ten,0.980,1
+20_07_0221,Sor So,Sor So,0.996,1
+02_07_0221,Sor So,Sor So,0.954,1
+17_08_0262,Grandfather,Grandfather,0.676,1
+18_08_0262,Grandfather,Grandfather,0.840,1
+05_07_0241,Nor Nhoo,Nor Nhoo,0.944,1
+24_07_0241,Nor Nhoo,Nor Nhoo,0.920,1
+12_25_0927,Javelin throwing,Javelin throwing,0.790,1
+20_25_0927,Javelin throwing,uu,0.568,0
+16_07_0220,Sor Rue Si,Sor Rue Si,1.000,1
+04_07_0220,Sor Rue Si,Sor Rue Si,0.999,1
+09_08_0272,Uncle (Mother's younger brother or sister),Aunt (Father's younger brother or sister),0.540,0
+18_08_0272,Uncle (Mother's younger brother or sister),Aunt (Father's younger brother or sister),0.955,0
+11_01_0005,Cambodia,Cambodia,0.997,1
+17_01_0005,Cambodia,Cambodia,0.944,1
+16_04_0145,Bang Lamphu,Bang Lamphu,1.000,1
+15_25_0918,Badminton,Badminton,0.998,1
+11_25_0918,Badminton,Wongwian Yai,0.598,0
+04_08_0265,Grandma,Taiwan,0.954,0
+28_08_0265,Grandma,Grandmother,0.592,0
+23_07_0244,Tor Thaharn,Tor Thaharn,0.963,1
+08_07_0244,Tor Thaharn,Tor Thaharn,0.967,1
+20_25_0936,Sport,Sport,1.000,1
+09_25_0936,Sport,Sport,0.999,1
+18_07_0236,Lor Chulaa,Thor Thoong,0.794,0
+03_07_0236,Lor Chulaa,Lor Chulaa,0.974,1
+01_04_0163,Tesco Lotus,Tesco Lotus,1.000,1
+25_04_0163,Tesco Lotus,Tesco Lotus,1.000,1
+03_04_0139,Wat Phra Pathom Chedi,Wat Phra Pathom Chedi,0.997,1
+12_04_0139,Wat Phra Pathom Chedi,Wat Phra Pathom Chedi,0.992,1
+24_28_0980,Duck egg,Duck egg,1.000,1
+29_28_0980,Duck egg,Duck egg,0.946,1
+15_07_0237,Jor Jaan,Jor Jaan,1.000,1
+21_07_0237,Jor Jaan,Jor Jaan,0.703,1
+10_04_0160,The Mall Department Store,Thailand,0.795,0
+11_04_0160,The Mall Department Store,The Mall Department Store,1.000,1
+04_25_0915,Boxing,Boxing,0.998,1
+09_25_0915,Boxing,Boxing,0.678,1
+08_04_0135,Wat Arun,Wat Benchamabophit,0.547,0
+11_06_0200,Three,Three,0.993,1
+12_06_0200,Three,Three,0.998,1
+13_07_0225,Phor Samphao,Phor Samphao,0.949,1
+22_07_0225,Phor Samphao,Phor Samphao,1.000,1
+21_08_0268,Grandchild,Grandchild,0.998,1
+25_08_0268,Grandchild,Hor Heep,0.925,0
+23_06_0198,One,One,0.998,1
+02_06_0198,One,One,0.992,1
+23_04_0150,Damnoen Saduak Floating Market,Damnoen Saduak Floating Market,0.878,1
+03_04_0150,Damnoen Saduak Floating Market,Damnoen Saduak Floating Market,0.844,1
+13_04_0144,Yaowarat,Ladyboy,0.682,0
+02_04_0144,Yaowarat,Yaowarat,1.000,1
+25_04_0152,Wongwian Yai,Wongwian Yai,0.966,1
+05_04_0157,Central Department Store,Girlfriend,0.769,0
+09_04_0157,Central Department Store,Central Department Store,0.704,1
+13_28_0983,Pork,Pork,0.991,1
+25_28_0983,Pork,Pork,1.000,1
+15_04_0147,Victory Monument,Victory Monument,1.000,1
+08_04_0147,Victory Monument,Victory Monument,1.000,1
+02_01_0008,Hong Kong,Hong Kong,0.958,1
+09_01_0008,Hong Kong,Female,0.973,0

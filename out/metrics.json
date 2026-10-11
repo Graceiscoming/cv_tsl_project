@@ -1,0 +1,15 @@
+{
+  "n_test": 357,
+  "n_classes_in_test": 184,
+  "accuracy_top1": 0.7619047619047619,
+  "accuracy_top5": 0.927170868347339,
+  "precision_macro": 0.7872282608695652,
+  "recall_macro": 0.7635869565217391,
+  "f1_macro": 0.7459368530020704,
+  "precision_weighted": 0.7918767507002801,
+  "recall_weighted": 0.7619047619047619,
+  "f1_weighted": 0.7474456449246366,
+  "auc_macro_ovr": 0.9893219293779285,
+  "auc_micro": 0.9899808632335394,
+  "train_minutes": 16.513642676671346
+}

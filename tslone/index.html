@@ -1,0 +1,164 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>TSL-ONE: Thai Sign Language Recognition Dataset</title>
+    <meta name="description" content="TSL-ONE-S: A comprehensive Thai Sign Language dataset for recognition research, featuring 4,152 video samples across 184 glosses from 29 diverse signers.">
+    <meta name="keywords" content="Thai Sign Language, TSL, sign language recognition, dataset, machine learning, computer vision">
+    <!-- Visitor counter using GoatCounter -->
+    <script data-goatcounter="https://thaisignlanguageone.goatcounter.com/count" async src="//gc.zgo.at/count.js"></script>
+    <link rel="preconnect" href="https://thaisignlanguageone.goatcounter.com" crossorigin>
+    <link rel="stylesheet" href="styles.css">
+    <meta name="theme-color" content="#1e3a8a">
+</head>
+<body>
+    <header>
+        <div class="container">
+            <h1>TSL-ONE</h1>
+            <p class="subtitle">Thai Sign Language Recognition Dataset</p>
+        </div>
+    </header>
+
+    <main>
+        <div class="container">
+            <section class="section">
+                <h2>Dataset Overview</h2>
+                
+                <div class="stats-grid">
+                    <div class="stat-item">
+                        <span class="stat-number">4,152</span>
+                        <div class="stat-label">Video Samples</div>
+                    </div>
+                    <div class="stat-item">
+                        <span class="stat-number">184</span>
+                        <div class="stat-label">Glosses</div>
+                    </div>
+                    <div class="stat-item">
+                        <span class="stat-number">29</span>
+                        <div class="stat-label">Signers</div>
+                    </div>
+                </div>
+
+                <h3>Key Features</h3>
+                <ul style="margin-left: 30px; color: var(--text-medium); font-size: 1.1rem;">
+                    <li>Word-level Thai Sign Language recognition dataset</li>
+                    <li>Uncontrolled, naturalistic recording conditions</li>
+                    <li>Standardized annotation process with automated validation</li>
+                    <li>Comprehensive handedness analysis</li>
+                    <li>Signer-independent evaluation protocol</li>
+                </ul>
+            </section>
+
+            <section class="section">
+                <h2>Available Datasets</h2>
+                <div class="dataset-grid">
+                    <div class="dataset-card">
+                        <h4>Skeletal Data</h4>
+                        <p>Processed skeletal keypoints extracted using MediaPipe for pose and hand landmark detection. With 54 landmarks (head landmarks including eyes, ears, and nose, 21 per hand) and a neck landmarks for SPOTER model.</p>
+                        <p><strong>Format:</strong> npy files</p>
+                        <p><strong>Availability:</strong> Available in this <a href="https://github.com/TSL-ONE/TSL-ONE.github.io/tree/62ff4924873fbb20b8691bc36591dfa72c0b4f9a/data" target="_blank">repository</a></p>
+                    </div>
+                    <div class="dataset-card">
+                        <h4>Raw Video Files</h4>
+                        <p>Original video recordings in naturalistic settings with varying lighting and backgrounds. Complete video dataset for comprehensive research and alternative feature extraction methods.</p>
+                        <p><strong>Format:</strong> MP4 video files</p>
+                        <p><strong>Availability:</strong> Available upon request (Please fill in the contact form at the end of this page for non-commercial use)</p>
+                    </div>
+                </div>
+            </section>
+
+            <section class="section">
+                <h2>TSL-ONE Vocabulary</h2>
+                <p>The dataset includes <strong>184 Thai Sign Language glosses</strong> across various categories. Use the search box below to find specific words.</p>
+                
+                <div class="vocabulary-section">
+                    <div class="search-container">
+                        <input type="text" id="vocabularySearch" placeholder="Search vocabulary..." class="search-input">
+                        <p class="helper" id="searchHelp">Type a word or ID (e.g., 137)</p>
+                        <div class="category-filters">
+                            <button class="filter-btn active" data-category="all">All (184)</button>
+                            <button class="filter-btn" data-category="countries">Countries (12)</button>
+                            <button class="filter-btn" data-category="landmarks">Special locations (37)</button>
+                            <button class="filter-btn" data-category="numbers">Numbers (11)</button>
+                            <button class="filter-btn" data-category="alphabet">Thai Alphabet and vowels (49)</button>
+                            <button class="filter-btn" data-category="family">Family & Relationships (37)</button>
+                            <button class="filter-btn" data-category="genders">Genders (8)</button>
+                            <button class="filter-btn" data-category="sports">Sports (26)</button>
+                            <button class="filter-btn" data-category="groceries">Groceries (12)</button>
+                        </div>
+                        <div class="results-meta"><span id="resultsCount" aria-live="polite"></span></div>
+                    </div>
+                    
+                    <div class="vocabulary-grid" id="vocabularyGrid">
+                        <!-- Vocabulary items will be populated by JavaScript -->
+                    </div>
+                </div>
+            </section>
+
+            <section class="section">
+                <h2>Contact</h2>
+                <p>We welcome any inquiries from researchers. Please use the form below to get in touch with us.</p>
+                
+                <div class="contact-form">
+                    <h3>Contact Form</h3>
+                    <form action="https://formspree.io/f/mpwrnaqr" method="POST">
+                        <div class="form-group">
+                            <label for="name">Name *</label>
+                            <input type="text" id="name" name="name" required>
+                        </div>
+                        
+                        <div class="form-group">
+                            <label for="email">Email *</label>
+                            <input type="email" id="email" name="email" required>
+                        </div>
+                        
+                        <div class="form-group">
+                            <label for="affiliation">Institution/Affiliation *</label>
+                            <input type="text" id="affiliation" name="affiliation" required>
+                        </div>
+                        
+                        <div class="form-group">
+                            <label for="purpose">Purpose of Inquiry</label>
+                            <select id="purpose" name="purpose">
+                                <option value="">Select purpose</option>
+                                <option value="dataset-request">Dataset Access Request</option>
+                                <option value="collaboration">Research Collaboration</option>
+                                <option value="technical-question">Technical Question</option>
+                                <option value="citation-inquiry">Citation/Publication Inquiry</option>
+                                <option value="other">Other</option>
+                            </select>
+                        </div>
+                        
+                        <div class="form-group">
+                            <label for="message">Message *</label>
+                            <textarea id="message" name="message" required placeholder="Please describe your inquiry or request in detail..."></textarea>
+                        </div>
+                        
+                        <input type="hidden" name="_replyto" value="thaisignlanguage.one@gmail.com">
+                        <input type="hidden" name="_subject" value="TSL-ONE Website Inquiry">
+                        <input type="text" name="website" id="hpField" autocomplete="off" tabindex="-1" style="position:absolute;left:-9999px" aria-hidden="true">
+                        <input type="hidden" id="formTimestamp" name="form_ts" value="">
+                        <input type="hidden" name="_next" value="./index.html#thank-you">
+                        
+                        <button type="submit" class="btn">Send Message</button>
+                    </form>
+                    <div id="thank-you" class="highlight-box" hidden>Thank you! We received your message.</div>
+                </div>
+            </section>
+        </div>
+    </main>
+
+    <footer>
+        <div class="container">
+            <div class="footer-content">
+                <p>&copy; 2025 TSL-ONE Research Project | Thai Sign Language Recognition Dataset</p>
+                <p>Advancing accessibility through machine learning and computer vision research</p>
+                <p>Contact: <a href="mailto:thaisignlanguage.one@gmail.com">thaisignlanguage.one@gmail.com</a></p>
+            </div>
+        </div>
+    </footer>
+
+    <script src="script.js"></script>
+</body>
+</html>
